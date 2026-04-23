@@ -41,6 +41,19 @@ The analysis includes:
 - Data visualization
 - Business insights generation
 
+
+## 📊 Interactive Dashboard
+
+🔗 **[View Live Tableau Dashboard](https://public.tableau.com/app/profile/roman.petrov6333/viz/SuperstoreSalesDashboard_17769580174910/Dashboard1)**
+
+Explore the interactive version with:
+- Sales trends over time
+- Geographic distribution by state
+- Category performance comparison
+- Customer segment breakdown
+
+---
+
 ## 📁 Files
 
 - `Superstore_Sales_Analysis.ipynb` - Main analysis notebook
